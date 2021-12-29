@@ -1,6 +1,7 @@
 <!--### Hi there 👋-->
 
-<h2> Hi. I'm Saúl Góngora.  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hi. I'm Saúl Góngora. 👋 </h2>
+<!--<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>-->
 <img align="center" alt="about_me" src="https://user-images.githubusercontent.com/46060069/130855114-a7dedd55-d419-461b-91e9-72d86c445d69.png" />
 
 <h3> 👨🏻‍💻 About Me  </h3>
@@ -40,7 +41,7 @@
 
 <a href="https://www.linkedin.com/in/saúl-góngora-0535871b4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/sam.gongora15/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/saulsantiago.gongoraku.3/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<!--a href="https://www.facebook.com/saulsantiago.gongoraku.3/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a-->
 
 
 
